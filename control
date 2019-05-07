@@ -1,0 +1,9 @@
+Package: me.chr0nic.coolmenu
+Name: CoolMenu
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: My first tweak! Wow! Replaces your power down menu.
+Maintainer: Chr0nic
+Author: Chr0nic
+Section: Tweaks
