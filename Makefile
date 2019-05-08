@@ -1,7 +1,6 @@
 include $(THEOS)/makefiles/common.mk
 
 
-
 TWEAK_NAME = CoolMenu
 CoolMenu_CFLAGS = -fobjc-arc
 CoolMenu_FILES = Tweak.xm
