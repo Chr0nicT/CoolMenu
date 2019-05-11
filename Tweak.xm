@@ -105,7 +105,7 @@ bool isActive = false;
     shutdownSlider.layer.shadowOpacity = 0.5;
     shutdownSlider.layer.shadowRadius = 1;
 
-    [button addTarget:self action:@selector(shutdownPressed:)
+    [shutdownSlider addTarget:self action:@selector(shutdownPressed:)
      forControlEvents:UIControlEventTouchUpInside];
     
     //Reboot Slider
